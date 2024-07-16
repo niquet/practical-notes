@@ -1,0 +1,35 @@
+
+## Prototyping
+
+- Understand the requirements
+  - Determine the problem you are trying to solve
+  - Identify the core functionalities that need to be implemented
+  - Gather requirements from stakeholders and users
+  - Define the scope of the prototype to focus on critical components
+  - Define the evaluation metrics
+- **Quick design**
+  - Choose a simple architecture or algorithm to start with
+  - Sketch out the architecture of the system, including databases, APIs, and services
+  - Decide on the technology stack
+  - Create a simple schema for your database and basic API endpoints
+- Build the prototype
+  - Implement the basic database schema and a few API endpoints
+  - Ensure that the prototype can handle basic CRUD operations (or the basic functionality necessary)
+  - Integrate any necessary third-party services (e.g., authentication, payment gateways)
+- Gather feedback
+  - Deploy the prototype to a staging environment
+  - Share the prototype with stakeholders and end-users for feedback
+  - Demonstrate functionality and evaluate based on the defined evaluation metrics
+- **Iterate and improve**
+  - Refine the database schema and API endpoints based on feedback
+  - Add more features incrementally, ensuring each addition is tested
+  - Optimize the performance and scalability of the prototype
+- Finalize and document
+  - Once the prototype meets the requirements, document the architecture and API specifications
+  - Prepare for a more robust implementation, considering security, scalability, and maintainability
+  - Integrate with the existing system (if necessary)
+- **Tips for success**
+  - _Keep it simple:_ focus on the core functionalities and avoid over-engineering
+  - _Time-boxing_: set strict deadlines for each iteration to avoid endless revisions
+  - _Reuse components:_ leverage existing libraries, frameworks, and tools to speed up development
+  - _Collaborate:_ engage with stakeholders and team members regularly to align on goals and gather diverse perspectives
