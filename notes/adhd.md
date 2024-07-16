@@ -1,0 +1,40 @@
+# ADHD
+
+- Managing ADHD as a software engineer; approaches below
+- **Embrace the MVP (Minumum Viable Product) mindset**
+  - Start with a basic version that solves the core problem
+  - Iterate and improve based on feedback
+  - _Remember:_ Done is better than perfect
+- **Practice rapid prototyping**
+  - Build quick, rough prototypes to test ideas
+  - Focus on functionality over polish in the early stages
+  - Use this approach to validate concepts before deep analysis
+- **Set clear, achievable goals**
+  - Break large projects into smaller, manageable tasks
+  - Use the SMART criteria: Specific, Measurable, Achievable, Relevant, Time-bound
+  - Prioritize tasks based on importance and urgency
+- **Practice time-boxed decision-making/time-boxing techniques**
+  - Set a deadline for making decisions and analysis
+  - Gather essential information, then commit to a choice, _or_
+  - Use techniques like the Pomodoro method (25 minutes of focused work, 5-minute break)
+  - Move forward with the best solution you have when the time is up
+  - _Remember:_ that most decisions are reversible if needed
+- **Adopt a "bias for action" mindset**
+  - _Remember:_ Taking action often provides more insights than endless analysis
+  - Embrace mistakes as learning opportunities
+  - Celebrate small wins to build momentum
+- **Use the "5-second rule"**
+  - When you have an idea, take action within 5 seconds
+  - This helps overcome the initial resistance to starting
+- **Implement a personal kanban board**
+  - Visualize your workflow
+  - Limit work in progress to focus on completion
+  - Move tasks from "To Do" to "Doing" to "Done"
+- **Seek feedback early and often**
+  - Share your work with colleagues or mentors
+  - Use their input to guide your next steps
+  - This reduces the pressure of making perfect decisions in isolation
+- **Reflect and adjust regularly**
+  - Schedule weekly reviews of your progress
+  - Identify what's working and what's not
+  - Adjust your approach based on these insights
