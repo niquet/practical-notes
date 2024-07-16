@@ -1,0 +1,35 @@
+# Debugging
+
+- Set clear goals
+  - Define the specific issue you're trying to solve
+  - Prioritize problems and tackle them one at a time
+- Leverage debugging tools
+  - Use tools available in your development environment
+  - Set breakpoints to pause execution at specific points
+  - Step through code line by line
+  - Inspect variables to understand their state and flow
+- Time-box your efforts
+  - Set a specific time limit for each debugging session
+  - Move on or seek help if you're stuck beyond the time limit
+- Document your process
+  - Keep notes on the issues you encounter
+  - Record the solutions you implement
+  - Document your reasoning behind decisions
+- Implement logging and error handling
+  - Use logging to track the flow of your application
+  - Implement proper error handling to catch and identify issues
+- Use rubber duck debugging
+  - Explain your code and the problem to an inanimate object (or a colleague)
+  - Often, verbalizing the issue leads to discovering the solution
+- Create reproducible test cases
+  - Develop minimal examples that demonstrate the bug
+  - Use these for testing and to communicate issues to others
+- Seek peer review
+  - Collaborate with colleagues on difficult bugs
+  - Participate in code reviews to catch issues early
+- Learn from each B=bug
+  - Analyze root causes of bugs you find
+  - Use insights to improve your coding practices
+- Embrace a growth mindset
+  - View debugging as an opportunity to learn
+  - Stay patient and persistent when facing challenging issues
