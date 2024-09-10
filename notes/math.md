@@ -33,6 +33,8 @@
 - So, for the domain we need to avoid division by zero, square roots of negative numbers, logarithms of zero and logarithms of negative numbers
 - The range of a function is simply the set of all possible values that a function can take
 
+- 
+
 ### Limits
 
 - Limits describe how a function behaves near a point, instead of at that point
